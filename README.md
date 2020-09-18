@@ -14,6 +14,6 @@ python app.py
 
 ## Implementation
 
-### This project is implemented with fask and is using rest api using in memory database and request.
-### API test is using api testing tool.
+- This project is implemented with fask and is using rest api using in memory database and request.
+- API test is using api testing tool.
  

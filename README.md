@@ -16,4 +16,5 @@ python app.py
 
 
 This project is implemented with fask and is using rest api using in memory database and request.
+API test is using api testing tool.
  

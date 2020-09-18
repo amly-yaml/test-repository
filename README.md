@@ -15,5 +15,5 @@ python app.py
 ## Implementation
 
 
-This project is implemented with fask and is using rest api for a store project.
+This project is implemented with fask and is using rest api using in memory database and request.
  
